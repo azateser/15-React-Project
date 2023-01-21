@@ -1,0 +1,39 @@
+.product {
+  @apply rounded-md bg-gray-100 p-2 shadow-md;
+}
+
+.product .image {
+  @apply h-[400px];
+}
+
+.product .image img {
+  @apply h-[400px] min-w-full shrink object-cover;
+}
+
+.product .title {
+  @apply mt-4 cursor-pointer text-lg font-semibold leading-6 hover:text-orange-800;
+}
+
+.product .review {
+  @apply my-2 flex text-orange-500;
+}
+
+.product .review .text {
+  @apply ml-2  flex  cursor-pointer items-center gap-1 text-sm text-[#007185];
+}
+
+.product .price {
+  @apply flex items-end gap-2;
+}
+
+.product .price .old-price {
+  @apply text-gray-600 line-through;
+}
+
+.product .add-to-cart {
+  @apply mt-4 mb-2 w-full cursor-pointer rounded-md bg-yellow-500 py-2 text-center font-semibold transition-all hover:bg-yellow-600;
+}
+
+.product .add-to-basket {
+  @apply mt-4 mb-2 w-full select-none rounded-md bg-orange-500 py-2 text-center font-semibold text-white transition-all hover:bg-orange-600;
+}

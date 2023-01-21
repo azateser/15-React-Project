@@ -1,0 +1,39 @@
+.checkout {
+  @apply mt-32 flex flex-col items-baseline gap-4 px-4 py-2 lg:mt-0 lg:flex-row;
+}
+
+.checkout .left-side {
+  @apply w-full bg-white px-4 py-6 lg:w-3/4;
+}
+
+.checkout .left-side .title {
+  @apply text-lg font-semibold;
+}
+
+.checkout .left-side .link-item {
+  @apply select-none text-sm text-[#007185] hover:text-[#C7511F] hover:underline;
+}
+
+.checkout .left-side .price-text {
+  @apply text-right text-sm font-medium text-gray-500;
+}
+
+.checkout .left-side .subtotal {
+  @apply mt-2 text-right text-xl;
+}
+
+.checkout .right-side {
+  @apply w-full bg-white px-4 py-4 lg:w-1/4;
+}
+
+.checkout .right-side .subtotal {
+  @apply mt-2 text-lg;
+}
+
+.checkout .right-side .gift {
+  @apply ml-1 mt-2 flex select-none items-center gap-1 text-sm leading-3;
+}
+
+.checkout .right-side .buy-button {
+  @apply mt-4 mb-2 select-none rounded-lg border border-[#F2C200] bg-[#ffd713] py-3 text-center text-sm leading-3 shadow-lg transition-all hover:bg-[#f8ca00];
+}

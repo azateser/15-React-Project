@@ -1,0 +1,116 @@
+.header {
+  @apply fixed top-0 w-full bg-[#121920] text-white md:relative;
+}
+
+.main-header {
+  @apply flex h-[3.75rem] w-full justify-between gap-5 px-4;
+}
+
+.main-header .left-side {
+  @apply flex h-full w-full items-center justify-center gap-6 md:w-max md:justify-start;
+}
+
+.main-header .left-side .logo {
+  @apply my-2 flex h-full w-24 cursor-pointer items-center;
+}
+.main-header .left-side .deliver {
+  @apply mb-2 flex h-full select-none items-center;
+}
+.main-header .left-side .deliver-container {
+  @apply hidden items-end gap-1 lg:flex;
+}
+.main-header .left-side .deliver-text {
+  @apply w-max;
+}
+
+.main-header .search {
+  @apply hidden h-full w-full select-none py-[10px] md:flex;
+}
+
+.main-header .all-categories {
+  @apply flex h-full items-center gap-2 rounded-l-[4px] border-r border-r-gray-300 bg-gray-100 px-3 text-sm font-normal text-[#0f1111] transition-all hover:bg-gray-300;
+}
+
+.main-header .search .search-container {
+  @apply w-full;
+}
+
+.main-header .search .search-container .search-input {
+  @apply h-full w-full bg-white;
+}
+.main-header .search .search-button {
+  @apply flex select-none items-center justify-center rounded-r-[4px] bg-[#f3a847] px-4 text-[#111111] transition-all hover:bg-[#ce8e3b];
+}
+
+.main-header .right-side {
+  @apply hidden h-full items-center gap-6 text-sm md:flex;
+}
+
+.main-header .right-side .language-container {
+  @apply flex h-full select-none items-center gap-2;
+}
+
+.main-header .right-side .language-container .image {
+  @apply h-5 w-5 bg-cover;
+}
+
+.main-header .right-side .deliver-text {
+  @apply w-max;
+}
+.main-header .right-side .info-text,
+.main-header .left-side .info-text {
+  @apply text-xs leading-5 text-gray-300;
+}
+.main-header .right-side .main-text,
+.main-header .left-side .main-text {
+  @apply text-sm font-bold leading-3;
+}
+
+.main-header .right-side .sign-container {
+  @apply mb-2 flex h-full w-max cursor-pointer select-none items-center gap-1;
+}
+
+.main-header .right-side .sign-container .down-arrow {
+  @apply flex items-end text-gray-300;
+}
+
+.main-header .right-side .orders-container {
+  @apply mb-2 flex h-full w-max cursor-pointer select-none items-center gap-1;
+}
+
+.main-header .right-side .cart {
+  @apply flex h-full w-max cursor-pointer items-center gap-2;
+}
+
+.main-header .right-side .cart .cart-count {
+  @apply absolute top-0 left-3 font-bold text-[#f08804];
+}
+
+.second-header {
+  @apply flex select-none bg-[#232f3e] px-4 text-sm;
+}
+.second-header .desktop-menu {
+  @apply hidden h-full items-center gap-4 py-[0.6rem] md:flex;
+}
+
+.second-header .desktop-menu .all-button {
+  @apply flex h-full items-center gap-1;
+}
+
+.second-header .desktop-menu .items {
+  @apply flex h-full items-center;
+}
+
+.second-header .mobile-menu {
+  @apply flex w-full justify-between py-2 md:hidden;
+}
+
+.second-header .mobile-menu .left-side {
+  @apply flex h-full w-max cursor-pointer items-center gap-1;
+}
+.second-header .mobile-menu .all-categories {
+  @apply select-none bg-black/20 px-4 py-1;
+}
+.second-header .mobile-menu .right-side {
+  @apply flex h-full w-max cursor-pointer items-center gap-2;
+}

@@ -1,0 +1,19 @@
+.slider-image {
+  @apply absolute -z-10 hidden md:flex;
+}
+
+.information-box {
+  @apply mt-28 px-5 pt-4 md:mt-0 md:pt-60;
+}
+
+.information-box .text {
+  @apply mb-4 hidden bg-gray-100 py-3 text-center text-xs md:block md:text-sm;
+}
+
+.information-box .link {
+  @apply text-[#007185]  hover:text-[#C7511F] hover:underline;
+}
+
+.products {
+  @apply grid grid-cols-1 justify-between gap-6 lg:grid-cols-3;
+}
