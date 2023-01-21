@@ -16,10 +16,10 @@ In this project, I made a small clone of the Amazon Site. I learned how to use R
 
 ## Roadmap
 
-[X] Project Setup <br />
-[X] Header Component <br />
-[X] Home Page Component <br />
-[X] Checkout Page Component <br />
-[X] StateProvider, Reducer, useReducer Hook <br />
-[X] Add to Cart, Remove from Cart using State Hooks <br />
-[X] Deploy <br />
+[x] Project Setup <br />
+[x] Header Component <br />
+[x] Home Page Component <br />
+[x] Checkout Page Component <br />
+[x] StateProvider, Reducer, useReducer Hook <br />
+[x] Add to Cart, Remove from Cart using State Hooks <br />
+[x] Deploy <br />

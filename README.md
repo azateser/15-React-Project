@@ -4,7 +4,7 @@ This repository consists of 50 project trials for React.JS
 
 | **#** |    **Project Name**     | **Live View** | **Technologies / Approaches** | **Status** |
 | :---: | :---------------------: | :-----------: | :---------------------------: | :--------: |
-|  01   |      Amazone Clone      |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  01   |      Amazone Clone      |   [view]()    |      JavaScript (React)       |     ✅     |
 |  02   |    Chat Appliaction     |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  03   |   Movies Application    |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  04   |  Video Sharing Website  |   [view]()    |      JavaScript (React)       |     ⌛     |
