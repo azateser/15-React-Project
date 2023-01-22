@@ -5,18 +5,18 @@ This repository consists of 50 project trials for React.JS
 | **#** |    **Project Name**     | **Live View** | **Technologies / Approaches** | **Status** |
 | :---: | :---------------------: | :-----------: | :---------------------------: | :--------: |
 |  01   |      [Amazone Clone](https://github.com/azateser/50-React-Project/tree/main/1.%20Amazone%20Clone)      |   [view](https://azateser.github.io/50-React-Project/1.%20Amazone%20Clone/Live/)    |      JavaScript (React)       |     ✅     |
-|  02   |    Chat Appliaction     |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  03   |   Movies Application    |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  04   |  Video Sharing Website  |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  02   | [Random Quote Generator](https://github.com/azateser/50-React-Project/tree/main/2.%20Random%20Quote%20Generator)  |   [view](https://azateser.github.io/50-React-Project/2.%20Random%20Quote%20Generator/Live/)    |      JavaScript (React)       |     ✅     |
+|  03   |    Harry Potter App     |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  04   |   Password Generator    |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  05   |        TODO LİST        |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  06   |      BLOG Website       |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  07   |    Social Networking    |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  08   |    Chat Appliaction     |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  09   |     Resume Website      |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  10   |     An Emoji Search     |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  11   |    Harry Potter App     |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  12   | Random Quote Generator  |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  13   |   Password Generator    |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  11   |   Movies Application    |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  12   |    Chat Appliaction     |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  13   |  Video Sharing Website  |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  14   |        Quiz App         |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  15   |    UnSplash Galarey     |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  16   |    React Router Demo    |   [view]()    |      JavaScript (React)       |     ⌛     |
