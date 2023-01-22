@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 500;
+  font-size: 18px;
+  background: #08070b;
+  color: #e7e6eb;
+}
+
+input[type="range"] {
+  position: relative;
+  height: 0.5rem;
+  margin-top: 1.25rem;
+  margin-bottom: 2.25rem;
+  background-color: #101010;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: none;
+  touch-action: none;
+  position: relative;
+  -webkit-appearance: none;
+  width: 100%;
+  height: 10px;
+  background: #101010;
+  outline: none;
+}
+
+[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 30px;
+  height: 30px;
+  background: #e7e6eb;
+  border: 5px solid #e7e6eb;
+  cursor: pointer;
+  border-radius: 100%;
+  transition: all 0.5s;
+}
+[type="range"]::-webkit-slider-thumb:hover {
+  scale: 1.2;
+  background: #101010;
+  border-color: #a3ffae;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 30px;
+  height: 30px;
+  background: #e7e6eb;
+  border: 5px solid #e7e6eb;
+  cursor: pointer;
+  border-radius: 100%;
+  transition: all 0.5s;
+}
+
+input[type="checkbox"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: #fff;
+  background-color: #23222a;
+  border: 2px solid #e7e6eb;
+  height: 1.25rem;
+  width: 1.25rem;
+  transition: all 0.5s;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type="checkbox"]:hover {
+  border: 2px solid #a3ffae;
+}
+
+input[type="checkbox"]::before {
+  content: "";
+  width: 1em;
+  height: 1em;
+  transform: scale(0);
+  display: flex;
+  background-color: #23222a;
+  transition: 120ms transform ease-in-out;
+  clip-path: polygon(28% 38%, 41% 53%, 75% 24%, 86% 38%, 40% 78%, 15% 50%);
+}
+
+input[type="checkbox"]:checked::before {
+  transform: scale(1);
+}
+input[type="checkbox"]:checked {
+  background-color: #a3ffae;
+  border: 2px solid #a3ffae;
+}
+input[type="checkbox"]:checked:hover {
+  border: 2px solid #e7e6eb;
+}
+
+.Toastify__progress-bar--success {
+  background: #a3ffae !important;
+}
+
+.Toastify__toast--success svg {
+  fill: #a3ffae !important;
+}

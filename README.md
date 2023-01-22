@@ -6,8 +6,8 @@ This repository consists of 50 project trials for React.JS
 | :---: | :---------------------: | :-----------: | :---------------------------: | :--------: |
 |  01   |      [Amazone Clone](https://github.com/azateser/50-React-Project/tree/main/1.%20Amazone%20Clone)      |   [view](https://azateser.github.io/50-React-Project/1.%20Amazone%20Clone/Live/)    |      JavaScript (React)       |     ✅     |
 |  02   | [Random Quote Generator](https://github.com/azateser/50-React-Project/tree/main/2.%20Random%20Quote%20Generator)  |   [view](https://azateser.github.io/50-React-Project/2.%20Random%20Quote%20Generator/Live/)    |      JavaScript (React)       |     ✅     |
-|  03   |    Harry Potter App     |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  04   |   Password Generator    |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  03   |   [Password Generator](https://github.com/azateser/50-React-Project/tree/main/3.%20Password%20Generator)    |   [view](https://azateser.github.io/50-React-Project/3.%20Password%20Generator/Live/)    |      JavaScript (React)       |     ✅     |
+|  04   |    Harry Potter App     |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  05   |        TODO LİST        |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  06   |      BLOG Website       |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  07   |    Social Networking    |   [view]()    |      JavaScript (React)       |     ⌛     |
