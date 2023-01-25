@@ -1,0 +1,15 @@
+.main-container {
+  @apply flex min-h-screen w-full flex-col items-center bg-gray-900 bg-pattern bg-contain bg-fixed;
+}
+
+.search-area {
+  @apply flex h-screen w-full justify-center bg-main bg-contain bg-no-repeat md:max-w-5xl md:bg-cover;
+}
+
+.card-area {
+  @apply -mt-[30rem] grid grid-cols-1 gap-4 sm:-mt-96 md:-mt-72 md:max-w-5xl md:grid-cols-2 lg:-mt-36 lg:grid-cols-3;
+}
+
+.loading {
+  @apply flex items-center justify-center;
+}

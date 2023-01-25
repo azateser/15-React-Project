@@ -1,0 +1,7 @@
+.search {
+  @apply mt-12 bg-input bg-contain bg-no-repeat sm:mt-24 md:mt-40 lg:mt-40;
+}
+
+.search input {
+  @apply mt-0 h-12 w-[12rem] bg-transparent px-8 text-gray-800 outline-none placeholder:text-yellow-700 sm:h-14 sm:w-[20rem] sm:px-12 sm:text-lg md:h-20 md:w-[25rem] md:px-16 md:text-2xl lg:mt-2 lg:h-24 lg:w-[31rem] lg:px-20 lg:text-4xl;
+}

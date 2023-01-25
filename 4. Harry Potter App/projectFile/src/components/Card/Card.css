@@ -1,0 +1,30 @@
+.card {
+  @apply relative w-80;
+}
+
+.card .image {
+  @apply w-96;
+}
+
+.card .profile-photo {
+  @apply absolute top-16 flex  h-max w-full select-none items-center justify-center rounded-full text-center transition-all hover:scale-110;
+}
+.card .profile-photo .profile-image {
+  @apply -ml-[0.1rem] h-36 w-36 select-none rounded-full border-2  border-black object-cover;
+}
+
+.card .name {
+  @apply absolute top-[15.5rem] left-[3.2rem] flex h-16 w-2/3 select-none items-center justify-center text-center font-cinzel text-xl;
+}
+
+.card .house {
+  @apply absolute top-[18.5rem] left-14 flex h-16 w-2/3 select-none items-center justify-center text-center font-kavoon text-xl;
+}
+
+.card .information {
+  @apply absolute top-[22rem] left-8 flex h-16 w-2/3 gap-12 text-center font-solitreo text-sm text-white;
+}
+
+.card .information .box {
+  @apply flex select-none flex-col items-start justify-start;
+}
