@@ -1,0 +1,19 @@
+.add-todo-area {
+  @apply flex items-center justify-between;
+}
+
+.add-todo-area .title {
+  @apply text-4xl font-bold tracking-[1.1rem] text-white;
+}
+
+.add-todo {
+  @apply mt-10 flex h-16 w-full items-center rounded-md bg-very-light-gray px-6 shadow-lg transition-all dark:bg-very-dark-desaturated-blue;
+}
+
+.add-todo .circle {
+  @apply h-7 w-7 rounded-full border-2  border-very-light-grayish-blue transition-all dark:border-very-dark-grayish-blue-2;
+}
+
+.add-todo .input {
+  @apply mt-2 bg-transparent leading-3 outline-none dark:text-very-light-grayish-blue w-full;
+}

@@ -1,0 +1,11 @@
+.main {
+  @apply h-[42vh] w-full;
+}
+
+.banner {
+  @apply flex h-full w-full bg-mobile-light bg-cover bg-center bg-no-repeat px-10 dark:bg-desktop-dark md:bg-desktop-light md:px-0 dark:md:bg-desktop-dark;
+}
+
+.content {
+  @apply m-auto mt-[4.8rem] flex w-[67rem] max-w-[34rem] flex-col;
+}

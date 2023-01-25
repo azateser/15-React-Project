@@ -1,0 +1,15 @@
+.footer {
+  @apply flex w-full items-center justify-between px-6 py-3 text-sm text-dark-grayish-blue transition-all dark:text-dm-very-dark-grayish-blue;
+}
+
+.options {
+  @apply flex gap-3;
+}
+
+.option {
+  @apply cursor-pointer;
+}
+
+.option.active {
+  @apply font-bold text-bright-blue;
+}

@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    background-color: hsl(0, 0%, 98%);
+    @apply dark:bg-very-dark-blue transition-all
+}

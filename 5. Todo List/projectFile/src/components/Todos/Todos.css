@@ -1,0 +1,27 @@
+.todos {
+  @apply mt-6 flex w-full flex-col items-center rounded-md bg-very-light-gray text-very-dark-grayish-blue shadow-lg transition-all dark:bg-very-dark-desaturated-blue;
+}
+
+.todo {
+  @apply flex w-full items-center border-b-[1px] py-[1.2rem] px-6 transition-all dark:border-b-very-dark-grayish-blue-2;
+}
+
+.complated {
+  @apply flex h-6 w-6 cursor-pointer items-center justify-center rounded-full bg-gradient-to-r from-[hsl(192,100%,67%)] to-[hsl(280,87%,65%)];
+}
+
+.complated-icon {
+  @apply touch-none select-none hover:hidden;
+}
+
+.complated-text {
+  @apply w-full px-6 text-dark-grayish-blue line-through transition-all dark:text-dm-very-dark-grayish-blue;
+}
+
+.active-icon {
+  @apply h-6 w-6 cursor-pointer rounded-full border-2 border-very-light-grayish-blue transition-all hover:bg-gray-200 dark:border-very-dark-grayish-blue-2 dark:hover:bg-gray-700;
+}
+
+.active-text {
+  @apply w-full px-6 transition-all dark:text-dm-light-grayish-blue;
+}
