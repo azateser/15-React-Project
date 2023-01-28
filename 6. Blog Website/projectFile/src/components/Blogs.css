@@ -1,0 +1,63 @@
+.blogs-area {
+  @apply container m-auto px-3 md:px-0;
+}
+
+.blogs-area .title {
+  @apply mt-8 mb-4 flex items-center gap-2 text-2xl;
+}
+
+.blogs-area .title span {
+  @apply font-bold text-blue-500;
+}
+
+.blogs-area .title hr {
+  @apply ml-4 h-[2px] w-full bg-gray-300;
+}
+
+.blogs-area .blogs {
+  @apply grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3;
+}
+
+.blogs-area .blogs .blog {
+  @apply rounded-lg bg-white shadow-md;
+}
+
+.blogs-area .blogs .blog .image {
+  @apply h-60 w-full;
+}
+
+.blogs-area .blogs .blog .image img {
+  @apply h-full w-full rounded-t-lg object-cover;
+}
+
+.blogs-area .blogs .blog .content {
+  @apply p-4;
+}
+
+.blogs-area .blogs .blog .content .info {
+  @apply flex items-center justify-between;
+}
+
+.blogs-area .blogs .blog .content .info .category {
+  @apply rounded-md bg-blue-400 px-2 py-1 text-sm uppercase text-white transition-all hover:shadow-md;
+}
+
+.blogs-area .blogs .blog .content .info .date {
+  @apply font-base flex items-center gap-1 text-sm text-gray-400;
+}
+
+.blogs-area .blogs .blog .content .title {
+  @apply mt-4 text-xl font-bold  text-gray-700;
+}
+
+.blogs-area .blogs .blog .content .description {
+  @apply mt-4 text-gray-500;
+}
+
+.blogs-area .blogs .blog .content .read-more {
+  @apply group mt-2 flex items-center gap-1 rounded-lg bg-gray-500 px-4 py-2 text-white transition-all hover:bg-gray-700 hover:shadow-lg;
+}
+
+.blogs-area .blogs .blog .content .read-more .icon {
+  @apply transition-all group-hover:translate-x-1;
+}

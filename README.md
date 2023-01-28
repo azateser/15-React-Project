@@ -9,7 +9,7 @@ This repository consists of 50 project trials for React.JS
 |  03   |   [Password Generator](https://github.com/azateser/50-React-Project/tree/main/3.%20Password%20Generator)    |   [view](https://azateser.github.io/50-React-Project/3.%20Password%20Generator/Live/)    |      JavaScript (React)       |     ✅     |
 |  04   |    [Harry Potter App](https://github.com/azateser/50-React-Project/tree/main/4.%20Harry%20Potter%20App)     |   [view](https://azateser.github.io/50-React-Project/4.%20Harry%20Potter%20App/Live/)    |      JavaScript (React)       |     ✅     |
 |  05   |        [Todo List](https://github.com/azateser/50-React-Project/tree/main/5.%20Todo%20List)        |   [view](https://azateser.github.io/50-React-Project/5.%20Todo%20List/Live/)    |      JavaScript (React)       |     ✅     |
-|  06   |      BLOG Website       |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  06   |      [BLOG Website](https://github.com/azateser/50-React-Project/tree/main/6.%20Blog%20Website)       |   [view](https://azateser.github.io/50-React-Project/6.%20Blog%20Website/Live/)    |      JavaScript (React)       |     ✅     |
 |  07   |    Social Networking    |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  08   |    Chat Appliaction     |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  09   |     Resume Website      |   [view]()    |      JavaScript (React)       |     ⌛     |

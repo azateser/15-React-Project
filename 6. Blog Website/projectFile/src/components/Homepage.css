@@ -1,0 +1,30 @@
+.homepage {
+  @apply mt-20 flex flex-col items-center justify-center gap-4 px-8 md:px-0;
+}
+
+.login {
+  @apply flex flex-col items-center justify-center gap-4 rounded-xl bg-gray-200 px-16 py-10 shadow-lg;
+}
+
+.login .hi-icon {
+  @apply w-12 md:w-16;
+}
+
+.login .title {
+  @apply text-center text-4xl font-bold underline md:text-6xl;
+}
+.login .title span {
+  @apply font-extrabold;
+}
+
+.login .description {
+  @apply md:mt-6 mt-2 mb-6 text-center text-sm md:mb-10 md:text-base;
+}
+
+.login .button {
+  @apply flex items-center gap-2 rounded bg-red-500 py-2 px-4 font-bold text-white hover:bg-red-700;
+}
+
+.login .button .text {
+  @apply inline-block text-xl;
+}
