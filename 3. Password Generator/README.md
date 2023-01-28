@@ -5,7 +5,7 @@
 
 In this project, I made a Random Password Generating application. I took advantage of the basic features of React and reinforced the data flow between the components.
 
-`Live Demo:` [View Demo](https://azateser.github.io/50-React-Project/3.%20Password%20Generator/Live/)
+`Live Demo:` [View Demo](https://azateser.github.io/20-React-Project/3.%20Password%20Generator/Live/)
 
 <br>
 
