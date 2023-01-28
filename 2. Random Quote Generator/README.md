@@ -5,7 +5,7 @@
 
 In this project, I took the words of Mustafa Kemal Atatürk randomly by connecting the API. In addition, I learned how to use the backtick and added a little language selection feature.
 
-`Live Demo:` [View Demo](https://azateser.github.io/50-React-Project/2.%20Random%20Quote%20Generator/Live/)
+`Live Demo:` [View Demo](https://azateser.github.io/20-React-Project/2.%20Random%20Quote%20Generator/Live/)
 
 <br>
 
