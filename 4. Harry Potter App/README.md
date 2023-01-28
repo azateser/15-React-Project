@@ -5,7 +5,7 @@
 
 In this project, I made a HARRY POTTER application by pulling data from the API, I had a little problem because I was working on the existing data in the search process, but I solved the problem with a little search.
 
-`Live Demo:` [View Demo](https://azateser.github.io/50-React-Project/4.%20Harry%20Potter%20App/Live/)
+`Live Demo:` [View Demo](https://azateser.github.io/20-React-Project/4.%20Harry%20Potter%20App/Live/)
 
 <br>
 
