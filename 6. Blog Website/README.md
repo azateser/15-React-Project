@@ -5,7 +5,7 @@
 
 In this project, it was to pull news through the [gNews](https://gnews.io) API so that only logged in users can see them. the goal in this project was to learn redux and use google authantication
 
-`Live Demo:` [View Demo](https://azateser.github.io/50-React-Project/6.%20Blog%20Website/Live/)
+`Live Demo:` [View Demo](https://azateser.github.io/20-React-Project/6.%20Blog%20Website/Live/)
 
 <br>
 
