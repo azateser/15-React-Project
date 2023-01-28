@@ -5,7 +5,7 @@
 
 I learned to use light and dark mode and localstorage in this todo project. I learned the filtering processes in more detail. I learned to change class according to state with classNames library.
 
-`Live Demo:` [View Demo](https://azateser.github.io/50-React-Project/5.%20Todo%20List/Live/)
+`Live Demo:` [View Demo](https://azateser.github.io/20-React-Project/5.%20Todo%20List/Live/)
 
 <br>
 
