@@ -6,7 +6,7 @@
 
 In this project, I made a small clone of the Amazon Site. I learned how to use React Router Dom and Context API.
 
-`Live Demo:` [View Demo](https://azateser.github.io/50-React-Project/1.%20Amazone%20Clone/Live/)
+`Live Demo:` [View Demo](https://azateser.github.io/20-React-Project/1.%20Amazone%20Clone/Live/)
 
 <br>
 
