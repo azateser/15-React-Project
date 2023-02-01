@@ -10,18 +10,13 @@ This repository consists of 20 project trials for React.JS
 |  04   |    [Harry Potter App](https://github.com/azateser/20-React-Project/tree/main/4.%20Harry%20Potter%20App)     |   [view](https://azateser.github.io/20-React-Project/4.%20Harry%20Potter%20App/Live/)    |      JavaScript (React)       |     ✅     |
 |  05   |        [Todo List](https://github.com/azateser/20-React-Project/tree/main/5.%20Todo%20List)        |   [view](https://azateser.github.io/20-React-Project/5.%20Todo%20List/Live/)    |      JavaScript (React)       |     ✅     |
 |  06   |      [BLOG Website](https://github.com/azateser/20-React-Project/tree/main/6.%20Blog%20Website)       |   [view](https://azateser.github.io/20-React-Project/6.%20Blog%20Website/Live/)    |      JavaScript (React)       |     ✅     |
-|  07   |    Social Networking    |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  08   |    Chat Appliaction     |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  09   |     Resume Website      |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  10   |     An Emoji Search     |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  11   |        Quiz App         |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  12   |        Note App         |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  13   |       Contact App       |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  14   |     Scoreboard App      |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  15   |    MetaTag Generator    |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  16   |       Weather App       |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  17   |      Popmodoro App      |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  18   |    Google Search App    |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  19   |    Tic-Tac-Toe Game     |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  20   | Word and Letter Counter |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  07   |     An Emoji Search     |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  08   |        Quiz App         |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  09   |        Note App         |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  11   |     Scoreboard App      |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  12   |    MetaTag Generator    |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  13   |      Popmodoro App      |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  14   |    Google Search App    |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  15   |    Tic-Tac-Toe Game     |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  26   | Word and Letter Counter |   [view]()    |      JavaScript (React)       |     ⌛     |
 
