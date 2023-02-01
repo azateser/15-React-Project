@@ -1,6 +1,6 @@
-# React.JS 20 Project Repo
+# React.JS 15 Project Repo
 
-This repository consists of 20 project trials for React.JS
+This repository consists of 15 project trials for React.JS
 
 | **#** |    **Project Name**     | **Live View** | **Technologies / Approaches** | **Status** |
 | :---: | :---------------------: | :-----------: | :---------------------------: | :--------: |
@@ -13,10 +13,10 @@ This repository consists of 20 project trials for React.JS
 |  07   |     An Emoji Search     |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  08   |        Quiz App         |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  09   |        Note App         |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  11   |     Scoreboard App      |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  12   |    MetaTag Generator    |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  13   |      Popmodoro App      |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  14   |    Google Search App    |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  15   |    Tic-Tac-Toe Game     |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  26   | Word and Letter Counter |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  10   |     Scoreboard App      |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  11   |    MetaTag Generator    |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  12   |      Popmodoro App      |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  13   |    Google Search App    |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  14   |    Tic-Tac-Toe Game     |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  15   | Word and Letter Counter |   [view]()    |      JavaScript (React)       |     ⌛     |
 
