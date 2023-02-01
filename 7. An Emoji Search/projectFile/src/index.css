@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main {
+  @apply flex w-full flex-col items-center justify-center transition-all duration-500 dark:bg-[#121212];
+}
+
+.change-theme {
+  @apply mb-8 mt-4 flex rounded-md bg-slate-700 px-2 py-1 text-white transition-all duration-500 hover:shadow-md dark:bg-slate-200 dark:text-slate-700 dark:shadow-slate-200/20;
+}
+
+.change-theme .icon {
+  @apply flex items-center gap-2 text-sm;
+}

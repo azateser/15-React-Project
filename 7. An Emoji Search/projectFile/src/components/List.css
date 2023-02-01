@@ -1,0 +1,15 @@
+.emoji-list{
+    @apply grid grid-cols-2 gap-4 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8
+}
+
+.emoji{
+    @apply flex w-36 cursor-pointer flex-col items-center justify-center rounded-xl bg-slate-100 p-2 transition-all duration-500 hover:shadow-md dark:bg-slate-800 dark:shadow-white/5
+}
+
+.emoji .symbol{
+    @apply mt-2 mb-4 text-6xl transition-all
+}
+
+.emoji .title{
+    @apply text-center text-lg font-bold text-slate-900 transition-all duration-500 dark:text-slate-200
+}

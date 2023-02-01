@@ -1,0 +1,23 @@
+.head {
+  @apply md:mb-10 mt-10 mb-5 flex max-w-lg flex-col items-center text-center md:mt-24;
+}
+
+.head .title {
+  @apply hidden text-5xl font-bold text-slate-700 duration-500 dark:text-white md:block;
+}
+
+.head .title span {
+  @apply font-extrabold text-purple-500;
+}
+
+.head .title-mobile {
+  @apply block text-5xl font-bold text-slate-700 duration-500 dark:text-white md:hidden;
+}
+
+.head .title-mobile span {
+  @apply font-extrabold text-purple-500;
+}
+
+.head .subtitle {
+  @apply mt-2 text-base text-slate-700 transition-all duration-500 dark:text-white;
+}
