@@ -16,7 +16,7 @@ This repository consists of 15 project trials for React.JS
 |  10   |     Scoreboard App      |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  11   |    MetaTag Generator    |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  12   |      Popmodoro App      |   [view]()    |      JavaScript (React)       |     ⌛     |
-|  13   |    Google Search App    |   [view]()    |      JavaScript (React)       |     ⌛     |
+|  13   |    Youtube Redesign     |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  14   |    Tic-Tac-Toe Game     |   [view]()    |      JavaScript (React)       |     ⌛     |
 |  15   | Word and Letter Counter |   [view]()    |      JavaScript (React)       |     ⌛     |
 
