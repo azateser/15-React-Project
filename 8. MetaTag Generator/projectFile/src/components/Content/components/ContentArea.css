@@ -1,0 +1,23 @@
+.content-area {
+    @apply w-full;
+}
+
+.content-area .content-header {
+    @apply my-2 flex items-center justify-between text-[#A3B3CA];
+}
+
+.content-area .content-header .content-title {
+    @apply text-sm lg:text-base;
+}
+
+.content-area .content-header .description {
+    @apply text-xs text-gray-400;
+}
+
+.content-area .text-area-input {
+    @apply h-16 min-h-[2.5rem] w-full rounded-md bg-[#EBF1FA] py-2 px-2 text-sm text-gray-500 outline-none transition-all placeholder:text-gray-400 focus:bg-[#dfe8f5];
+}
+
+.content-area .input {
+    @apply h-10 min-h-[2.5rem] w-full rounded-md bg-[#EBF1FA] px-2 text-sm text-gray-500 outline-none transition-all placeholder:text-gray-400 focus:bg-[#dfe8f5];
+}

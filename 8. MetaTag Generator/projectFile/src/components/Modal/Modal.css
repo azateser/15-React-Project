@@ -1,0 +1,75 @@
+.modal {
+    @apply fixed top-0 left-0 flex h-screen w-full items-center justify-center;
+}
+
+.modal .background {
+    @apply absolute h-full w-full bg-gradient-to-b from-indigo-500 backdrop-blur-sm;
+}
+
+.modal .content {
+    @apply absolute z-50 flex h-3/4 w-full flex-col items-center overflow-auto rounded-lg bg-white px-10 md:w-3/4 lg:px-20;
+}
+
+.modal .content .logo {
+    @apply mt-10 text-lg font-bold;
+}
+
+.modal .content .logo span {
+    @apply cursor-pointer text-indigo-500;
+}
+
+.modal .content .close {
+    @apply absolute right-8 top-4 cursor-pointer text-gray-300 transition-all hover:scale-110 hover:text-gray-400;
+}
+
+.modal .content .alert {
+    @apply my-4 flex w-full items-center justify-center gap-2 rounded-lg border border-[#A3B3CA] py-2 text-sm font-light md:text-base;
+}
+
+.modal .content .alert .icon {
+    @apply hidden md:flex;
+}
+
+.modal .content .alert .text {
+    @apply font-medium;
+}
+
+.modal .content .code {
+    @apply mb-8 w-full;
+}
+
+.modal .content .code .code-content {
+    @apply rounded-t-md bg-[#EBF1FA] p-2 text-sm;
+}
+
+.modal .content .code .code-content .meta-tags {
+    @apply flex flex-col overflow-auto text-[#00193a];
+}
+
+.modal .content .code .code-content .comment {
+    @apply text-[#738191];
+}
+
+.modal .content .code .code-content .normal {
+    @apply text-[#0048ab];
+}
+
+.modal .content .code .copy-section {
+    @apply flex w-full items-center justify-center rounded-b-md bg-[#E0E8F3] px-4 py-2 text-sm text-[#00193a] sm:justify-between;
+}
+
+.modal .content .code .copy-section .info {
+    @apply hidden items-center sm:flex;
+}
+
+.modal .content .code .copy-section .info span {
+    @apply ml-2 select-none rounded-md border border-[#00193a] px-2 py-1;
+}
+
+.modal .content .code .copy-section .copy {
+    @apply flex w-max justify-center;
+}
+
+.modal .content .code .copy-section .copy button {
+    @apply flex items-center gap-2 rounded-md border bg-white fill-indigo-600 px-4 py-2 text-xs font-medium uppercase text-indigo-600 transition-all hover:border-indigo-600 focus:border-white focus:bg-indigo-600 focus:fill-white focus:text-white;
+}

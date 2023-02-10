@@ -1,0 +1,19 @@
+.header {
+    @apply border-b border-gray-300;
+}
+
+.header .contain {
+    @apply container m-auto flex items-center justify-between py-4 px-6 md:px-0;
+}
+
+.header .contain .logo {
+    @apply font-bold;
+}
+
+.header .contain .logo span {
+    @apply cursor-pointer text-indigo-500;
+}
+
+.header .contain .icon {
+    @apply cursor-pointer fill-gray-500 transition-all hover:scale-110 hover:fill-gray-600;
+}
